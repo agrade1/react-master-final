@@ -46,7 +46,7 @@ function Timer() {
             />
             <ScoreListWrap>
                 <ScoreList>
-                    <ScoreText>{roundCount}/12</ScoreText>
+                    <ScoreText>{roundCount}/4</ScoreText>
                     <ScoreText>Round</ScoreText>
                 </ScoreList>
                 <ScoreList>
